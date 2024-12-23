@@ -130,11 +130,11 @@
 
 <div align="center">
     <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-        <a  style="margin-right: 10px;" href="https://github.com/emmano97/">
-            <img src="https://github-readme-stats.vercel.app/api?username=emmano97&hide_rank=true&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F6FF0C&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,3295a8" width="500"/>
+        <a  style="margin-right: 10px;" href="https://github.com/emmanoedorh/">
+            <img src="https://github-readme-stats.vercel.app/api?username=emmanoedorh&hide_rank=true&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F6FF0C&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,3295a8" width="500"/>
         </a>
-        <a style="margin-left: 10px;"  href="https://github.com/emmano97/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmano97&show_icons=true&locale=en&layout=compact&line_height=20&title_color=F6FF0C&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,32a894" width="500"/>
+        <a style="margin-left: 10px;"  href="https://github.com/emmanoedorh/">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanoedorh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=F6FF0C&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,32a894" width="500"/>
         </a>
     </div>
     <br><br>
